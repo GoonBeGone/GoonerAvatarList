@@ -20,10 +20,10 @@
     "reason": "Initial ban"
   },
   {
-    "userId": 3609150517,
+    "userId": 123456789,
     "bannedItems": [
-      "rbxassetid://2507461785"
+      "rbxassetid://123456789"
     ],
-    "reason": "Test ban 1"
+    "reason": "Test ban 2"
   }
 ]
