@@ -1,9 +1,9 @@
 [
   {
-    "userId": 123456789,
+    "userId": 987654321,
     "bannedItems": [
       "rbxassetid://123456789"
     ],
-    "reason": "Test ban 2"
+    "reason": "Test ban 3"
   }
 ]
