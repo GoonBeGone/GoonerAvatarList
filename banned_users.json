@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "userId": 3609150517,
+    "bannedItems": [
+      "rbxassetid://18430527278"
+    ],
+    "reason": "Wearing banned item"
+  }
+]
