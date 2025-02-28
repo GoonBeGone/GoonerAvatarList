@@ -1,6 +1,29 @@
 [
-  { "userId": 789014, "bannedItems": [], "reason": "Initial ban" },
-  { "userId": 789012, "bannedItems": [], "reason": "Initial ban" },
-  { "userId": 345678, "bannedItems": [], "reason": "Initial ban" },
-  { "userId": 901234, "bannedItems": [], "reason": "Initial ban" }
+  {
+    "userId": 789014,
+    "bannedItems": [],
+    "reason": "Initial ban"
+  },
+  {
+    "userId": 789012,
+    "bannedItems": [],
+    "reason": "Initial ban"
+  },
+  {
+    "userId": 345678,
+    "bannedItems": [],
+    "reason": "Initial ban"
+  },
+  {
+    "userId": 901234,
+    "bannedItems": [],
+    "reason": "Initial ban"
+  },
+  {
+    "userId": 123456789,
+    "bannedItems": [
+      "rbxassetid://123456789"
+    ],
+    "reason": "Test ban 2"
+  }
 ]
