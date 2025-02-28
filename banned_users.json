@@ -1,16 +1,9 @@
 [
   {
-    "userId": 3609150517,
-    "bannedItems": [
-      "rbxassetid://2507461785"
-    ],
-    "reason": "Test ban"
-  },
-  {
     "userId": 3609150511,
     "bannedItems": [
       "rbxassetid://2507461785"
     ],
     "reason": "Test ban"
-  }
+  },
 ]
