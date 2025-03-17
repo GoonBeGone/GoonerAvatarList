@@ -7,6 +7,14 @@
       "6789",
       "678961"
     ],
+    "reason": "test ban"
+  },
+  {
+    "userId": "testbanuid",
+    "bannedItems": [
+      "1234",
+      "678961"
+    ],
     "reason": "test12"
   }
 ]
