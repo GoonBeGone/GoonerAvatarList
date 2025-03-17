@@ -13,5 +13,12 @@
       "rbxassetid://115684502460112"
     ],
     "reason": "Second ban"
+  },
+  {
+    "userId": "1",
+    "bannedItems": [
+      "1"
+    ],
+    "reason": "test"
   }
 ]
