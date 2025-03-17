@@ -9,8 +9,9 @@
   {
     "userId": "3609150517",
     "bannedItems": [
-      "rbxassetid://10813127988"
+      "rbxassetid://10813127988",
+      "rbxassetid://115684502460112"
     ],
-    "reason": "First ban"
+    "reason": "Second ban"
   }
 ]
