@@ -5,5 +5,12 @@
       "rbxassetid://10813127988"
     ],
     "reason": "Test ban 1"
+  },
+  {
+    "userId": "3609150517",
+    "bannedItems": [
+      "rbxassetid://10813127988"
+    ],
+    "reason": "First ban"
   }
 ]
