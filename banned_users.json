@@ -8,5 +8,20 @@
       "678961"
     ],
     "reason": "test ban"
+  },
+  {
+    "userId": "testbanuid",
+    "bannedItems": [
+      "1234",
+      "678961"
+    ],
+    "reason": "test12"
+  },
+  {
+    "userId": "3609",
+    "bannedItems": [
+      "1234"
+    ],
+    "reason": "test ban 1"
   }
 ]
