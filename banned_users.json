@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "userId": "1234",
+    "bannedItems": [
+      "1234",
+      "2345"
+    ],
+    "reason": "testban1"
+  }
+]
