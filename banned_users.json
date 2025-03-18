@@ -43,5 +43,52 @@
     "reason": "test 5",
     "timestamp": "03/18/2025, 23:11",
     "active": true
-  }
+  },
+  [
+    {
+      "userId": "1",
+      "bannedItems": [
+        "1"
+      ],
+      "reason": "test 1",
+      "timestamp": "03/18/2025, 23:10",
+      "active": false
+    },
+    {
+      "userId": "2",
+      "bannedItems": [
+        "2"
+      ],
+      "reason": "test 2",
+      "timestamp": "03/18/2025, 23:10",
+      "active": true
+    },
+    {
+      "userId": "3",
+      "bannedItems": [
+        "3"
+      ],
+      "reason": "test 3",
+      "timestamp": "03/18/2025, 23:11",
+      "active": true
+    },
+    {
+      "userId": "4",
+      "bannedItems": [
+        "4"
+      ],
+      "reason": "test 4",
+      "timestamp": "03/18/2025, 23:11",
+      "active": true
+    },
+    {
+      "userId": "5",
+      "bannedItems": [
+        "5"
+      ],
+      "reason": "test 5",
+      "timestamp": "03/18/2025, 23:11",
+      "active": true
+    }
+  ]
 ]
