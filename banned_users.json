@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "userId": "12",
+    "bannedItems": [
+      "123"
+    ],
+    "reason": "test1",
+    "timestamp": "03/18/2025, 22:55",
+    "active": true
+  }
+]
