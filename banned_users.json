@@ -7,14 +7,6 @@
     "reason": "tesn"
   },
   {
-    "userId": "1111",
-    "bannedItems": [
-      "1",
-      "testitem"
-    ],
-    "reason": "test ban"
-  },
-  {
     "userId": "gra",
     "bannedItems": [
       "gr5"
