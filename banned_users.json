@@ -17,11 +17,11 @@
     "active": false
   },
   {
-    "userId": "1",
+    "userId": "5",
     "bannedItems": [
-      "1"
+      "5"
     ],
-    "reason": "1",
+    "reason": "5",
     "timestamp": "03/18/2025, 04:49",
     "active": true
   }
