@@ -15,5 +15,14 @@
     "reason": "1",
     "timestamp": "03/18/2025, 04:43",
     "active": true
+  },
+  {
+    "userId": "2",
+    "bannedItems": [
+      "2"
+    ],
+    "reason": "2",
+    "timestamp": "03/18/2025, 04:43",
+    "active": true
   }
 ]
