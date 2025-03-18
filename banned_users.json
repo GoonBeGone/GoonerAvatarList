@@ -1,8 +1,8 @@
 {
-  "userId": "1",
+  "userId": "2",
   "bannedItems": [
-    "1"
+    "2"
   ],
-  "reason": "test 1",
+  "reason": "test 2",
   "timestamp": "03/18/2025, 23:29"
 }
