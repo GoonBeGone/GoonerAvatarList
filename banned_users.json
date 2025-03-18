@@ -22,5 +22,13 @@
     ],
     "reason": "test 3",
     "timestamp": "03/18/2025, 23:38"
+  },
+  {
+    "userId": "4",
+    "bannedItems": [
+      "4"
+    ],
+    "reason": "test 4",
+    "timestamp": "03/18/2025, 23:38"
   }
 ]
