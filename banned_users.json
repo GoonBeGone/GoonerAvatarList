@@ -7,5 +7,13 @@
     ],
     "reason": "testban1",
     "timestamp": "03/18/2025, 03:38"
+  },
+  {
+    "userId": "1023",
+    "bannedItems": [
+      "512"
+    ],
+    "reason": "2",
+    "timestamp": "03/18/2025, 04:02"
   }
 ]
