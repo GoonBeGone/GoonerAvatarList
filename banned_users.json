@@ -9,8 +9,16 @@
   {
     "userId": "1111",
     "bannedItems": [
-      "1"
+      "1",
+      "testitem"
     ],
-    "reason": "1"
+    "reason": "test ban"
+  },
+  {
+    "userId": "gra",
+    "bannedItems": [
+      "gr5"
+    ],
+    "reason": "gra2"
   }
 ]
