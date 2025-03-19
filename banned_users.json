@@ -7,5 +7,13 @@
     ],
     "reason": "Wearing or owning banned/suggestive items",
     "timestamp": "03/19/2025, 09:24"
+  },
+  {
+    "userId": "test2",
+    "bannedItems": [
+      "test4"
+    ],
+    "reason": "test3",
+    "timestamp": "03/19/2025, 09:26"
   }
 ]
